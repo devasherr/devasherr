@@ -29,4 +29,4 @@ A passionate Software Engineer ❤️
 
 ### Language and tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,babel,bootstrap,react,graphql,jest,mysql,nextjs,redux,tailwind,nodejs,html,ts,sass,python,express,php,css,figma,git,heroku,vercel,firebase,cpp,java,mongo&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,js,babel,bootstrap,react,graphql,jest,mysql,nextjs,redux,tailwind,nodejs,html,ts,sass,python,express,php,css,figma,git,heroku,vercel,firebase,cpp,java,mongo&theme=dark)](https://skillicons.dev)
