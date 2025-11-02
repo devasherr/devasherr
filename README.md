@@ -14,6 +14,4 @@
 
 👋 Hello! I'm Asher Samuel and I love building software, automating workflows, and self-hosting services. I’m passionate about backend development, system design, and performance optimization.  
 
-I love tackling LeetCode problems, exploring network protocols, and building things from the ground up (just for the sake of learning). I also try to keep my life organized on Notion (emphasis on **try**). And if you catch me online at 3 AM, don’t worry—that’s just when my best ideas show up.  
-
-From design to deployment, I focus on **maintainability, performance, and security**, always following best practices.  
+I love tackling LeetCode problems, exploring network protocols, and building things from the ground up (just for the sake of learning). If you catch me online at 3 AM, don’t worry, that’s just when my best ideas show up.
